@@ -1,0 +1,10 @@
+:root {
+  /* color */
+  --vp-c-brand: #9a755a;
+  --vp-c-brand-light: #e8e0d8;
+  --vp-c-brand-lighter: #f7efdf;
+  --vp-c-brand-dark: #88725c;
+  --vp-c-brand-darker: #606040;
+
+  scroll-behavior: smooth;
+}
