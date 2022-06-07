@@ -2,9 +2,9 @@
 layout: home
 
 hero:
-  name: Homepage
-  text: Welcome to HanYu's blogs
-  tagline: 偶爾寫寫文字，記錄生活
+  name: It's HanYu.
+  text: 偶爾寫寫文字，記錄一下生活
+  tagline: 我是涵渝
 
 features:
   - icon: ⚡️

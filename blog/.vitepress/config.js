@@ -3,7 +3,11 @@ import items_2022 from '../2022/items'
 export default {
   title: 'It\'s Han Yu 👋',
   description: 'HanYu\' blog site',
+  head: [
+    ['link', { rel: "icon", type: "image/svg", sizes: "32x32", href: "/hanyu.svg"}],
+  ],
   themeConfig: {
+    logo: '/hanyu.svg',
     nav: [
       { text: 'Posts 文章列表', link: '/posts' },
       { text: 'About 關於我', link: '/about' },
